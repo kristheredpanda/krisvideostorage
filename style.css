@@ -1,0 +1,41 @@
+@font-face{
+    font-family: AovelSansRounded;
+    src: url(fonts/AovelSansRounded.ttf);
+}
+
+@font-face{
+    font-family: BelieveIt;
+    src: url(fonts/Believe-It.ttf);
+}
+
+body{
+    background-color: rgb(36, 36, 36);
+    color: white;
+    font-family: AovelSansRounded;
+    padding: 0px;
+    margin: 0px;
+}
+
+.topbar{
+    background-color: rgb(26, 26, 26);
+    padding: 10px;
+}
+
+.websitetitle{
+    padding: 0px;
+    margin: 0px;
+}
+
+.mainbody{
+    padding: 20px;
+}
+
+.video1frame{
+    padding: 10px;
+    background-color: rgb(26, 26, 26);
+    width: 640px;
+}
+
+.video1tnd{
+    float: right;
+}
